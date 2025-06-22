@@ -5,9 +5,10 @@ Intern Name: Gauri Mandhare
 Project Title: User Management Full Stack App 
 
 🔗 Live Link👉 https://fullstack-internship-project.onrender.com
+
 🗂️ GitHub Repository👉 https://github.com/17Gauri/fullstack-internship-project
 
-📝 Project Description
+📝 Project Description:
 This is a full-stack Node.js project developed as part of the Cognifyz Full Stack Development Internship — June 2025.
 
 
